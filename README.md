@@ -28,5 +28,5 @@ Bu projede aşağıdaki test senaryoları gerçekleştirilmektedir:
 GitHub repository'sini bilgisayarınıza klonlayın veya ZIP olarak indirin.
 
 ```bash
-git clone https://github.com/kullaniciadi/rest-assured-test.git
+git clone https://github.com/Hilal-Kocer/rest-assured-test.git
 cd rest-assured-tests
