@@ -1,4 +1,3 @@
-# rest_assured_test
 # API Test Otomasyonu - Rest Assured
 
 Bu proje, [JSONPlaceholder API](https://jsonplaceholder.typicode.com/) üzerinden API test otomasyonu gerçekleştirmek için Rest Assured kullanmaktadır. API'nin çeşitli endpoint'leri üzerinde TestNG ve Rest Assured ile yazılmış testler bulunmaktadır.
